@@ -1,0 +1,129 @@
+{
+  "buildings": [
+    {
+      "number": 4,
+      "x": -73.37461300309597,
+      "y": -79.48235294117647,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 22,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 67.0
+    },
+    {
+      "number": 3,
+      "x": -32.5077399380805,
+      "y": -71.24458204334366,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 2,
+      "x": 38.080495356037154,
+      "y": -71.17275541795667,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 1,
+      "x": 78.63777089783282,
+      "y": -80.25510835913312,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 22,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 67.0
+    },
+    {
+      "number": 5,
+      "x": -79.87616099071208,
+      "y": -25.86749226006192,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 8,
+      "x": -43.343653250774,
+      "y": -1.9071207430340558,
+      "width_est_m": 32.6,
+      "depth_est_m": 15.45,
+      "storeys": 25,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 78.9
+    },
+    {
+      "number": 10,
+      "x": -82.3529411764706,
+      "y": 27.83157894736842,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 15,
+      "x": -73.37461300309597,
+      "y": 84.60433436532507,
+      "width_est_m": 58,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 14,
+      "x": -3.7151702786377707,
+      "y": 59.65077399380805,
+      "width_est_m": 65.2,
+      "depth_est_m": 15.45,
+      "storeys": 24,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 77.3
+    },
+    {
+      "number": 7,
+      "x": 38.69969040247678,
+      "y": -1.8575851393188854,
+      "width_est_m": 32.6,
+      "depth_est_m": 15.45,
+      "storeys": 25,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 78.9
+    },
+    {
+      "number": 6,
+      "x": 78.94736842105263,
+      "y": -25.78328173374613,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    },
+    {
+      "number": 12,
+      "x": 78.0185758513932,
+      "y": 29.996284829721365,
+      "width_est_m": 28.3,
+      "depth_est_m": 14.8,
+      "storeys": 26,
+      "storeys_source": "User screenshot and construction-plan positional correspondence",
+      "height_est_m": 79.0
+    }
+  ],
+  "objects": 650,
+  "garden_trees": 103,
+  "assumptions": "Footprint dimensions and main roads reference the published raster masterplan; sales numbering preserved. North gate facade, exact planting and node offsets require as-built verification.",
+  "packed_reference_images": 8,
+  "coordinate_system": "glTF: X east, Y up, negative Z north; inventory x/y are Blender east/north"
+}

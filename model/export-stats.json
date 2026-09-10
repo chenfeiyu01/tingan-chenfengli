@@ -1,0 +1,33 @@
+{
+  "bytes": 2968260,
+  "rawBytes": 16592884,
+  "nodesBefore": 577,
+  "nodesAfter": 178,
+  "buildings": [
+    "Tower_01_CONTROL",
+    "Tower_02_CONTROL",
+    "Tower_03_CONTROL",
+    "Tower_04_CONTROL",
+    "Tower_05_CONTROL",
+    "Tower_06_CONTROL",
+    "Tower_07_CONTROL",
+    "Tower_08_CONTROL",
+    "Tower_10_CONTROL",
+    "Tower_12_CONTROL",
+    "Tower_14_CONTROL",
+    "Tower_15_CONTROL"
+  ],
+  "instances": 16,
+  "bounds": {
+    "min": [
+      -210,
+      -2.497190772692851,
+      -210
+    ],
+    "max": [
+      210,
+      82.27989102705072,
+      210
+    ]
+  }
+}
