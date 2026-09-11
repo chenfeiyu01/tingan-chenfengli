@@ -121,9 +121,541 @@
       "height_est_m": 79.0
     }
   ],
-  "objects": 650,
-  "garden_trees": 103,
+  "objects": 691,
+  "garden_trees": 96,
   "assumptions": "Footprint dimensions and main roads reference the published raster masterplan; sales numbering preserved. North gate facade, exact planting and node offsets require as-built verification.",
   "packed_reference_images": 8,
+  "site_boundary": {
+    "revision": "2026-09-11",
+    "retail": [
+      {
+        "building_number": 4,
+        "x": -73.37461300309597,
+        "y": -89.91617647058824,
+        "width": 29.0,
+        "depth": 7.168,
+        "height": 5.45,
+        "front_y": -93.5,
+        "projection_beyond_tower": 6.618,
+        "planned_use": "community elderly service centre",
+        "type": "partial projecting ground floor",
+        "evidence": "User correction and published plan frontage; H=5.45m marked for 2/3 podiums, matching indicative height used for 1/4"
+      },
+      {
+        "building_number": 3,
+        "x": -32.5077399380805,
+        "y": -85.79729102167184,
+        "width": 29.0,
+        "depth": 15.405,
+        "height": 5.45,
+        "front_y": -93.5,
+        "projection_beyond_tower": 14.855,
+        "planned_use": "property business",
+        "type": "full-depth podium reaching perimeter",
+        "evidence": "User correction and published plan frontage; H=5.45m marked for 2/3 podiums, matching indicative height used for 1/4"
+      },
+      {
+        "building_number": 2,
+        "x": 38.080495356037154,
+        "y": -85.76137770897833,
+        "width": 29.0,
+        "depth": 15.477,
+        "height": 5.45,
+        "front_y": -93.5,
+        "projection_beyond_tower": 14.927,
+        "planned_use": "property business and community services",
+        "type": "full-depth podium reaching perimeter",
+        "evidence": "User correction and published plan frontage; H=5.45m marked for 2/3 podiums, matching indicative height used for 1/4"
+      },
+      {
+        "building_number": 1,
+        "x": 78.63777089783282,
+        "y": -90.30255417956656,
+        "width": 29.0,
+        "depth": 6.395,
+        "height": 5.45,
+        "front_y": -93.5,
+        "projection_beyond_tower": 5.845,
+        "planned_use": "community elderly services",
+        "type": "partial projecting ground floor",
+        "evidence": "User correction and published plan frontage; H=5.45m marked for 2/3 podiums, matching indicative height used for 1/4"
+      }
+    ],
+    "wall_segments": [
+      {
+        "from": [
+          -111,
+          -93.5
+        ],
+        "to": [
+          -87.87461300309597,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          -58.87461300309597,
+          -93.5
+        ],
+        "to": [
+          -47.0077399380805,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          -18.007739938080498,
+          -93.5
+        ],
+        "to": [
+          -15.5,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          22.5,
+          -93.5
+        ],
+        "to": [
+          23.580495356037154,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          52.580495356037154,
+          -93.5
+        ],
+        "to": [
+          54.6,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          62.6,
+          -93.5
+        ],
+        "to": [
+          64.13777089783282,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          93.13777089783282,
+          -93.5
+        ],
+        "to": [
+          111,
+          -93.5
+        ]
+      },
+      {
+        "from": [
+          -15.5,
+          -93.5
+        ],
+        "to": [
+          -15.5,
+          -87.5
+        ]
+      },
+      {
+        "from": [
+          22.5,
+          -93.5
+        ],
+        "to": [
+          22.5,
+          -87.5
+        ]
+      },
+      {
+        "from": [
+          -111,
+          -93.5
+        ],
+        "to": [
+          -111,
+          103
+        ]
+      },
+      {
+        "from": [
+          111,
+          -93.5
+        ],
+        "to": [
+          111,
+          -22
+        ]
+      },
+      {
+        "from": [
+          111,
+          -13
+        ],
+        "to": [
+          111,
+          103
+        ]
+      },
+      {
+        "from": [
+          -111,
+          103
+        ],
+        "to": [
+          -47.8,
+          103
+        ]
+      },
+      {
+        "from": [
+          -39.5,
+          103
+        ],
+        "to": [
+          -35.5,
+          103
+        ]
+      },
+      {
+        "from": [
+          26.5,
+          103
+        ],
+        "to": [
+          29.1,
+          103
+        ]
+      },
+      {
+        "from": [
+          37.1,
+          103
+        ],
+        "to": [
+          111,
+          103
+        ]
+      },
+      {
+        "from": [
+          -35.5,
+          103
+        ],
+        "to": [
+          -35.5,
+          95
+        ]
+      },
+      {
+        "from": [
+          26.5,
+          103
+        ],
+        "to": [
+          26.5,
+          95
+        ]
+      }
+    ],
+    "obstacles": [
+      {
+        "kind": "retail",
+        "x": -73.37461300309597,
+        "y": -89.91617647058824,
+        "width": 29.0,
+        "depth": 7.167647058823519
+      },
+      {
+        "kind": "retail",
+        "x": -32.5077399380805,
+        "y": -85.79729102167184,
+        "width": 29.0,
+        "depth": 15.405417956656336
+      },
+      {
+        "kind": "retail",
+        "x": 38.080495356037154,
+        "y": -85.76137770897833,
+        "width": 29.0,
+        "depth": 15.477244582043326
+      },
+      {
+        "kind": "retail",
+        "x": 78.63777089783282,
+        "y": -90.30255417956656,
+        "width": 29.0,
+        "depth": 6.394891640866874
+      },
+      {
+        "kind": "wall",
+        "x": -99.437306501548,
+        "y": -93.5,
+        "width": 23.325386996904026,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": -52.94117647058823,
+        "y": -93.5,
+        "width": 12.066873065015475,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": -16.75386996904025,
+        "y": -93.5,
+        "width": 2.707739938080498,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 23.040247678018577,
+        "y": -93.5,
+        "width": 1.2804953560371544,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 53.59024767801858,
+        "y": -93.5,
+        "width": 2.219504643962847,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 63.368885448916416,
+        "y": -93.5,
+        "width": 1.7377708978328215,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 102.0688854489164,
+        "y": -93.5,
+        "width": 18.062229102167176,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": -15.5,
+        "y": -90.5,
+        "width": 0.62,
+        "depth": 6.2
+      },
+      {
+        "kind": "wall",
+        "x": 22.5,
+        "y": -90.5,
+        "width": 0.62,
+        "depth": 6.2
+      },
+      {
+        "kind": "wall",
+        "x": -111.0,
+        "y": 4.75,
+        "width": 0.62,
+        "depth": 196.7
+      },
+      {
+        "kind": "wall",
+        "x": 111.0,
+        "y": -57.75,
+        "width": 0.62,
+        "depth": 71.7
+      },
+      {
+        "kind": "wall",
+        "x": 111.0,
+        "y": 45.0,
+        "width": 0.62,
+        "depth": 116.2
+      },
+      {
+        "kind": "wall",
+        "x": -79.4,
+        "y": 103.0,
+        "width": 63.400000000000006,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": -37.5,
+        "y": 103.0,
+        "width": 4.2,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 27.8,
+        "y": 103.0,
+        "width": 2.8000000000000016,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": 74.05,
+        "y": 103.0,
+        "width": 74.10000000000001,
+        "depth": 0.62
+      },
+      {
+        "kind": "wall",
+        "x": -35.5,
+        "y": 99.0,
+        "width": 0.62,
+        "depth": 8.2
+      },
+      {
+        "kind": "wall",
+        "x": 26.5,
+        "y": 99.0,
+        "width": 0.62,
+        "depth": 8.2
+      },
+      {
+        "kind": "garage opening",
+        "x": 58.6,
+        "y": -84.5,
+        "width": 8.1,
+        "depth": 18
+      },
+      {
+        "kind": "garage opening",
+        "x": -43.65,
+        "y": 91.0,
+        "width": 8.299999999999999,
+        "depth": 24
+      },
+      {
+        "kind": "garage opening",
+        "x": 33.1,
+        "y": 91.0,
+        "width": 8.1,
+        "depth": 24
+      },
+      {
+        "kind": "south landscape pool",
+        "x": -0.6191950464396285,
+        "y": -4.723839009287925,
+        "width": 17.5,
+        "depth": 4.4
+      }
+    ],
+    "openings": [
+      {
+        "name": "South pedestrian entrance",
+        "x": 3.5,
+        "y": -93.5,
+        "width": 38
+      },
+      {
+        "name": "North pedestrian entrance",
+        "x": -4.5,
+        "y": 103,
+        "width": 62
+      },
+      {
+        "name": "Southeast vehicle access",
+        "x": 58.6,
+        "y": -93.5,
+        "width": 8
+      },
+      {
+        "name": "Northwest vehicle access",
+        "x": -43.65,
+        "y": 103,
+        "width": 8.3
+      },
+      {
+        "name": "Northeast vehicle access",
+        "x": 33.1,
+        "y": 103,
+        "width": 8
+      },
+      {
+        "name": "East emergency access",
+        "x": 111,
+        "y": -17.5,
+        "width": 9
+      }
+    ],
+    "removed_conflicting_trees": [
+      "Garden tree.010",
+      "Garden tree.029",
+      "Garden tree.036",
+      "Garden tree.051",
+      "Garden tree.064",
+      "Garden tree.069",
+      "Garden tree.101",
+      "Street tree.015",
+      "Street tree.019",
+      "Street tree.024",
+      "Street tree.062"
+    ],
+    "assumptions": "Follow published planning diagram per user instruction. Added south frontage at 1-4; existing labeled utility/community blocks and northeast market retain their planned uses. Shared front line, railings and unannotated facade details approximate; pedestrian, vehicle and emergency openings retained.",
+    "garages": [
+      {
+        "name": "South",
+        "x": 58.6,
+        "y": -93.5,
+        "width": 7.4,
+        "length": 18,
+        "direction": 1,
+        "drop": 2.52,
+        "canopy": "user-photo reference: enclosed polished stone walls, aluminium side ceiling panels, dense dark star ceiling and recessed light lines",
+        "reference": "user garage photo 2026-09-11; external north street elevation remains unverified",
+        "clear_height": 4.05,
+        "scope": "short visible ramp and dark termination only; no underground garage"
+      },
+      {
+        "name": "Northwest",
+        "x": -43.65,
+        "y": 103,
+        "width": 7.6,
+        "length": 24,
+        "direction": -1,
+        "drop": 2.52,
+        "canopy": "user-photo reference: enclosed polished stone walls, aluminium side ceiling panels, dense dark star ceiling and recessed light lines",
+        "reference": "user garage photo 2026-09-11; external north street elevation remains unverified",
+        "clear_height": 4.05,
+        "scope": "short visible ramp and dark termination only; no underground garage"
+      },
+      {
+        "name": "Northeast",
+        "x": 33.1,
+        "y": 103,
+        "width": 7.4,
+        "length": 24,
+        "direction": -1,
+        "drop": 2.52,
+        "canopy": "user-photo reference: enclosed polished stone walls, aluminium side ceiling panels, dense dark star ceiling and recessed light lines",
+        "reference": "user garage photo 2026-09-11; external north street elevation remains unverified",
+        "clear_height": 4.05,
+        "scope": "short visible ramp and dark termination only; no underground garage"
+      }
+    ],
+    "pool_south_lounge": {
+      "pool_south_y": -0.723839009287925,
+      "pond": {
+        "x": -0.6191950464396285,
+        "y": -4.723839009287925,
+        "width": 17.5,
+        "depth": 4.4
+      },
+      "pavilion": {
+        "x": -0.6191950464396285,
+        "y": -10.823839009287925,
+        "width": 22,
+        "depth": 6.7
+      },
+      "evidence": "User north-looking-south photo and close-up 2026-09-11; dimensions indicative"
+    }
+  },
   "coordinate_system": "glTF: X east, Y up, negative Z north; inventory x/y are Blender east/north"
 }
