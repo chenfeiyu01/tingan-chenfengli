@@ -1,8 +1,8 @@
 {
-  "bytes": 4160912,
-  "rawBytes": 22691168,
-  "nodesBefore": 610,
-  "nodesAfter": 220,
+  "bytes": 6375380,
+  "rawBytes": 46647148,
+  "nodesBefore": 634,
+  "nodesAfter": 241,
   "buildings": [
     "Tower_01_CONTROL",
     "Tower_02_CONTROL",
@@ -17,7 +17,7 @@
     "Tower_14_CONTROL",
     "Tower_15_CONTROL"
   ],
-  "instances": 17,
+  "instances": 18,
   "bounds": {
     "min": [
       -210,

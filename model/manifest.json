@@ -121,7 +121,7 @@
       "height_est_m": 79.0
     }
   ],
-  "objects": 695,
+  "objects": 719,
   "garden_trees": 96,
   "assumptions": "Footprint dimensions and main roads reference the published raster masterplan; sales numbering preserved. North gate facade, exact planting and node offsets require as-built verification.",
   "packed_reference_images": 8,
@@ -23578,5 +23578,6 @@
     "max_rise": 1.369,
     "evidence": "Landscape grading is indicative, no surveyed elevations supplied."
   },
+  "facade_revision": "20260911-aluminium-glass",
   "coordinate_system": "glTF: X east, Y up, negative Z north; inventory x/y are Blender east/north"
 }
